@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-28T15:42:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 00: Plan and Sketch</title><link href="http://localhost:4000/00_Plan/" rel="alternate" type="text/html" title="Assignment 00: Plan and Sketch" /><published>2023-08-28T10:29:20+02:00</published><updated>2023-08-28T10:29:20+02:00</updated><id>http://localhost:4000/00_Plan</id><content type="html" xml:base="http://localhost:4000/00_Plan/"><![CDATA[<h3 id="initiation--web-install">Initiation / Web install</h3>
+I"�<h3 id="initiation--web-install">Initiation / Web install</h3>
 <p>I have now created my site as requested by the subject. The page is now up and running on a custom webserver, but source files is pushed to GitHub. <a href="http://github.com/selvack/ada525/">http://github.com/selvack/ada525/</a></p>
 
 <p>To setup my development environment on my Mac I used these commands</p>
@@ -24,11 +24,11 @@ bundle <span class="nb">install
 <p>Then i opened the folder in Visual Studio Code and edited the necessery files and from the console.
 Jekyll uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> as editing language for text-html compiler.</p>
 
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git init <span class="c"># initerer  </span>
-git add <span class="nb">.</span> <span class="c"># legger til alle filene i folderen til opplasting </span>
-git commit <span class="nt">-m</span> <span class="s2">"intial commit"</span> <span class="c"># forplikter seg til å sende filer over med beskrivelsen "intial commit"</span>
-git remote add orgin https://github.com/selvack/ada525.git <span class="c"># lager en kobling "remote" med link til github-repo</span>
-git push orgin main <span class="c"># pusher filene til github-repo</span>
+<div class="language-terminal highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gp">git init #</span><span class="w"> </span>initerer  
+<span class="gp">git add . #</span><span class="w"> </span>legger til alle filene i folderen til opplasting 
+<span class="gp">git commit -m "intial commit" #</span><span class="w"> </span>forplikter seg til å sende filer over med beskrivelsen <span class="s2">"intial commit"</span>
+<span class="gp">git remote add orgin https://github.com/selvack/ada525.git #</span><span class="w"> </span>lager en kobling <span class="s2">"remote"</span> med <span class="nb">link </span>til github-repo
+<span class="gp">git push orgin main #</span><span class="w"> </span>pusher filene til github-repo
 </code></pre></div></div>
 
 <h1 id="my-final-project-outline">My Final project outline</h1>
@@ -43,4 +43,6 @@ git push orgin main <span class="c"># pusher filene til github-repo</span>
   <li>Display - LCDdisplay or a Segment display for counting points</li>
   <li>Sound - Support of any sound?</li>
   <li>CAD model for 3D gun - Not rendered any type of gun yet. Simplicity might be the fastest way of going with this (modding an exisiting gun)</li>
-</ul>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="jekyll" /><category term="initial" /><summary type="html"><![CDATA[Initiation / Web install I have now created my site as requested by the subject. The page is now up and running on a custom webserver, but source files is pushed to GitHub. http://github.com/selvack/ada525/]]></summary></entry></feed>
+</ul>
+
+:ET

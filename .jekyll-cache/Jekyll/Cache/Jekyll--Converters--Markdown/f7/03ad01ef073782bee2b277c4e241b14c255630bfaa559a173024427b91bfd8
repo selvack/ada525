@@ -1,0 +1,18 @@
+I"½<h3 id="initiation">Initiation</h3>
+<p>I have now created my site as requested by the subject. The page is now up and running on Github.io.</p>
+
+<h1 id="my-final-project-outline">My Final project outline</h1>
+<p>For my final project i plan to build a laser gun game. The idea is to shoot laser towards some targets as play infantry soldiers and with a hit the score will be visable on a display. This project will most likely rely on using an Arduino circuit.</p>
+
+<p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Title" /></p>
+
+<h2 id="undecided-factors-per-now">Undecided factors per now</h2>
+<p>There are several factors that are undecided pr now and will be determined as the subject will progress. Here is a quick list of that</p>
+<ul>
+  <li>Targets (toy soldiers or an image) - These targes must have some kind of movements; maybe a step motor to have them fall if taken a hit?</li>
+  <li>Display - LCDdisplay or a Segment display for counting points</li>
+  <li>Sound - Support of any sound?</li>
+  <li>CAD model for 3D gun - Not rendered any type of gun yet. Simplicity might be the fastest way of going with this (modding an exisiting gun)</li>
+</ul>
+
+:ET

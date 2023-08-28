@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-28T11:18:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to include necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">00_Plan</title><link href="http://localhost:4000/welcome-to-jekyll/" rel="alternate" type="text/html" title="00_Plan" /><published>2023-08-28T10:29:20+02:00</published><updated>2023-08-28T10:29:20+02:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll/"><![CDATA[<h3 id="initiation">Initiation</h3>
+<p>I have now created my site as requested by the subject. The page is now up and running on Github.io.</p>
+
+<h1 id="my-final-project-outline">My Final project outline</h1>
+<p>For my final project i plan to build a laser gun game. The idea is to shoot laser towards some targets as play infantry soldiers and with a hit the score will be visable on a display. This project will most likely rely on using an Arduino circuit.</p>
+
+<p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" /></p>
+
+<h2 id="undecided-factors-per-now">Undecided factors per now</h2>
+<p>There are several factors that are undecided pr now and will be determined as the subject will progress. Here is a quick list of that</p>
+<ul>
+  <li>Targets (toy soldiers or an image) - These targes must have some kind of movements; maybe a step motor to have them fall if taken a hit?</li>
+  <li>Display - LCDdisplay or a Segment display for counting points</li>
+  <li>Sound - Support of any sound?</li>
+  <li>CAD model for 3D gun - Not rendered any type of gun yet. Simplicity might be the fastest way of going with this (modding an exisiting gun)</li>
+</ul>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Initiation I have now created my site as requested by the subject. The page is now up and running on Github.io.]]></summary></entry></feed>

@@ -1,4 +1,4 @@
-I"-<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
+I"1<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
 
 <p>I’ve successfully set up my website as specified by the project requirements. The live site is hosted on a custom webserver, and all source files are available on <a href="http://github.com/selvack/ada525/">GitHub</a>.</p>
 
@@ -30,7 +30,7 @@
 
 <h2 id="project-theme--setup">Project Theme &amp; Setup</h2>
 <ol>
-  <li>I used the <a href="http://github.com/selvack/ada525/">Klise</a>, a jekyll template for this project. To set it up:
+  <li>I used the <a href="https://github.com/piharpi/jekyll-klise">Klise</a>, a jekyll template for this project. To set it up:
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/piharpi/jekyll-klise.git
 bundle <span class="nb">install
 </span>bundle <span class="nb">exec </span>jekyll serve
@@ -39,7 +39,7 @@ bundle <span class="nb">install
   <li>
     <p>Access the local server via <a href="127.0.0.1:4000">127.0.0.1:4000</a> or <a href="localhost:4000">localhost:4000</a>.</p>
   </li>
-  <li>Edit the necessary files using <strong>Visual Studio Code</strong>. Note: Jekyll uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a> for text-to-HTML conversion.</li>
+  <li>Edit the necessary files using <strong>Visual Studio Code</strong>. Note: Jekyll uses <a href="https://www.markdownguide.org/tools/jekyll/">Markdown</a> for text-to-HTML conversion.</li>
 </ol>
 
 <h2 id="deploying-to-github">Deploying to GitHub</h2>

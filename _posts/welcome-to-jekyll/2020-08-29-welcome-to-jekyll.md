@@ -1,34 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-08-29 09:29:20 +0700
+title:  "00_Plan"
+date:   2023-08-28 09:29:20 +0100
 categories: jekyll update
 usemathjax: true
 ---
 
+### Initiation
+I have now created my site as requested by the subject. The page is now up and running on Github.io.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
+My Final project outline
+========================
+For my final project i plan to build a laser gun game. The idea is to shoot laser towards some targets as play infantry soldiers and with a hit the score will be visable on a display. This project will most likely rely on using an Arduino circuit. 
 
-Jekyll requires blog post files to be named according to the following format:
+![Project Outline](https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png "Laser Gun Game")
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Undecided factors per now
+-------------------------
+There are several factors that are undecided pr now and will be determined as the subject will progress. Here is a quick list of that
+* Targets (toy soldiers or an image) - These targes must have some kind of movements; maybe a step motor to have them fall if taken a hit?
+* Display - LCDdisplay or a Segment display for counting points
+* Sound - Support of any sound?
+* CAD model for 3D gun - Not rendered any type of gun yet. Simplicity might be the fastest way of going with this (modding an exisiting gun)
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 

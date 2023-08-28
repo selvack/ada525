@@ -1,7 +1,7 @@
 # Site settings
 title: ADA525  - Selva Kumar # site title
 description: >- # site description
-  Webpage to include necesary information and sourcefiles for the subject ADA525 @ HVL.
+  Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.
 lang: en-US # default lang
 timezone: Europe/Oslo # set your timezone
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Selva Kumar # author name
   bio: >- # tell to the world
-    Webpage to include necesary information and sourcefiles for the subject ADA525 @ HVL.
+    Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.
   # username: username # general username
   github: selvack # github username
   # twitter: twitter_username # twitter username

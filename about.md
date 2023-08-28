@@ -6,5 +6,5 @@ excerpt: Hello peeps, I'm student of ADA525 Rapid prototyping using computationa
 comments: false
 ---
 
-Hello peeps, I'm student of ADA525 Rapid prototyping using computational tools at Western Norway University of Applied Science, Bergen. This blog for documentation that is required in this subject. This service is run on Github pages.
+Hello peeps, I'm student of ADA525 Rapid prototyping using computational tools at Western Norway University of Applied Science, Bergen. This blog for documentation that is required in this subject.
 

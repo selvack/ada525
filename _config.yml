@@ -22,7 +22,7 @@ author:
 
 # URL settings
 url: "https://selvack.github.io/ada525/" #
-baseurl: ada525
+baseurl: 
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

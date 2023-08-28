@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-28T22:53:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 00: Plan and Sketch</title><link href="http://localhost:4000/00_Plan/" rel="alternate" type="text/html" title="Assignment 00: Plan and Sketch" /><published>2023-08-28T10:29:20+02:00</published><updated>2023-08-28T10:29:20+02:00</updated><id>http://localhost:4000/00_Plan</id><content type="html" xml:base="http://localhost:4000/00_Plan/"><![CDATA[<h1 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h1>
+I"�<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
 
 <p>I’ve successfully set up my website as specified by the project requirements. The live site is hosted on a custom webserver, and all source files are available on <a href="http://github.com/selvack/ada525/">GitHub</a>.</p>
 
-<h2 id="setting-up-the-development-environment-on-mac">Setting Up the Development Environment on Mac</h2>
+<h3 id="setting-up-the-development-environment-on-mac">Setting Up the Development Environment on Mac</h3>
 <p>Follow the steps below:</p>
 
 <ol>
@@ -59,7 +59,7 @@ To do so, upload this path to the site web-folder</p>
 <p>private server url: <a href="https://ada525.intellico.no/">https://ada525.intellico.no/</a></p>
 
 <hr />
-
+<h5 id="end-of-initiation--web-setup">END OF INITIATION &amp; WEB SETUP</h5>
 <hr />
 
 <h1 id="my-final-project-outline">My Final project outline</h1>
@@ -68,6 +68,7 @@ To do so, upload this path to the site web-folder</p>
 <p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" /></p>
 
 <h2 id="final-project-undecided-factors">Final Project: Undecided Factors</h2>
+
 <p>As we continue to develop our project, several components remain undecided. Here’s a rundown of these aspects:</p>
 
 <ul>
@@ -111,4 +112,5 @@ To do so, upload this path to the site web-folder</p>
       <li>To incorporate sound effects, we may need to use two Arduino Unos in tandem. Alternatively, I might find a simpler solution that requires just one Arduino.</li>
     </ul>
   </li>
-</ul>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="jekyll" /><category term="initial" /><summary type="html"><![CDATA[Project Initiation &amp; Web Setup]]></summary></entry></feed>
+</ul>
+:ET

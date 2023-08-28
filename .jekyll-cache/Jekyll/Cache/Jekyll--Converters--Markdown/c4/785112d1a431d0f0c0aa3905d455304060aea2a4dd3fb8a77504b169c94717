@@ -1,4 +1,4 @@
-I"1<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
+I"�<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
 
 <p>I’ve successfully set up my website as specified by the project requirements. The live site is hosted on a custom webserver, and all source files are available on <a href="http://github.com/selvack/ada525/">GitHub</a>.</p>
 
@@ -50,6 +50,12 @@ git commit <span class="nt">-m</span> <span class="s2">"Initial commit"</span>
 git remote add origin https://github.com/selvack/ada525.git
 git push origin main
 </code></pre></div></div>
+<p>Since my selected jekyll themes plugin (jekyll-postfiles) isn’t supported by github pages, the site will encounter problems such as broken path or post images won’t show up. I chose therefor to host on my private web-server. 
+Just upload this path to the site web-folder</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./_site/
+</code></pre></div></div>
+
+<p>** NOW THE PAGE IS ONLINE **</p>
 
 <h1 id="my-final-project-outline">My Final project outline</h1>
 <p>For my final project, I intend to develop a laser gun game. The concept involves shooting lasers at target figures, designed to resemble infantry soldiers. Every successful hit will register and display a score on an integrated screen. The core of this project will likely be built around an Arduino circuit.</p>
@@ -102,5 +108,4 @@ git push origin main
     </ul>
   </li>
 </ul>
-
 :ET

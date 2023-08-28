@@ -7,7 +7,7 @@ usemathjax: true
 ---
 
 ### Initiation
-I have now created my site as requested by the subject. The page is now up and running on Github.io.
+I have now created my site as requested by the subject. The page is now up and running on a custom webserver, but source files is pushed to GitHub. http://github.com/selvack/ada525/
 
 
 My Final project outline

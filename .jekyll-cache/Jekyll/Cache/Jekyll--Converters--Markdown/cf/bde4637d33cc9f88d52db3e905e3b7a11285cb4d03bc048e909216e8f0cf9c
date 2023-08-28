@@ -1,8 +1,8 @@
-I"�<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
+I"�<h1 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h1>
 
 <p>I’ve successfully set up my website as specified by the project requirements. The live site is hosted on a custom webserver, and all source files are available on <a href="http://github.com/selvack/ada525/">GitHub</a>.</p>
 
-<h3 id="setting-up-the-development-environment-on-mac">Setting Up the Development Environment on Mac</h3>
+<h2 id="setting-up-the-development-environment-on-mac">Setting Up the Development Environment on Mac</h2>
 <p>Follow the steps below:</p>
 
 <ol>
@@ -23,7 +23,7 @@
   </li>
   <li>Restart the terminal, then:
     <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code> ruby <span class="nt">-v</span>  <span class="c"># To confirm the version.</span>
- gem <span class="nb">install </span>jekyll
+ gem <span class="nb">install </span>jekyll bundler
 </code></pre></div>    </div>
   </li>
 </ol>
@@ -31,7 +31,8 @@
 <h2 id="project-theme--setup">Project Theme &amp; Setup</h2>
 <ol>
   <li>I used the <a href="https://github.com/piharpi/jekyll-klise">Klise</a>, a jekyll template for this project. To set it up:
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/piharpi/jekyll-klise.git
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jekyll _YOUR-FOLDER-NAME_
+git clone https://github.com/piharpi/jekyll-klise.git
 bundle <span class="nb">install
 </span>bundle <span class="nb">exec </span>jekyll serve
 </code></pre></div>    </div>
@@ -51,11 +52,16 @@ git remote add origin https://github.com/selvack/ada525.git
 git push origin main
 </code></pre></div></div>
 <p>Since my selected jekyll themes plugin (jekyll-postfiles) isn’t supported by github pages, the site will encounter problems such as broken path or post images won’t show up. I chose therefor to host on my private web-server. 
-Just upload this path to the site web-folder</p>
+To do so, upload this path to the site web-folder</p>
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./_site/
 </code></pre></div></div>
 
-<p>** NOW THE PAGE IS ONLINE **</p>
+<h4 id="-now-the-page-is-online-">** NOW THE PAGE IS ONLINE **</h4>
+<p>private server url: <a href="https://ada525.intellico.no/">https://ada525.intellico.no/</a></p>
+
+<hr />
+
+<hr />
 
 <h1 id="my-final-project-outline">My Final project outline</h1>
 <p>For my final project, I intend to develop a laser gun game. The concept involves shooting lasers at target figures, designed to resemble infantry soldiers. Every successful hit will register and display a score on an integrated screen. The core of this project will likely be built around an Arduino circuit.</p>
@@ -63,7 +69,6 @@ Just upload this path to the site web-folder</p>
 <p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" /></p>
 
 <h2 id="final-project-undecided-factors">Final Project: Undecided Factors</h2>
-
 <p>As we continue to develop our project, several components remain undecided. Here’s a rundown of these aspects:</p>
 
 <ul>

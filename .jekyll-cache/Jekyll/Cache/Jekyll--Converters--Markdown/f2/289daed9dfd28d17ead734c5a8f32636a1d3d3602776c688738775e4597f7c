@@ -1,4 +1,4 @@
-I"Õ<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
+I"“<h2 id="project-initiation--web-setup">Project Initiation &amp; Web Setup</h2>
 
 <p>Iâ€™ve successfully set up my website as specified by the project requirements. The live site is hosted on a custom webserver, and all source files are available on <a href="http://github.com/selvack/ada525/">GitHub</a>.</p>
 
@@ -56,7 +56,6 @@ git push origin main
 
 <p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" /></p>
 
-<h2 id="undecided-factors-per-now">Undecided factors per now</h2>
 <h2 id="final-project-laser-gun-game-considerations">Final Project: Laser Gun Game Considerations</h2>
 
 <p>Several aspects of the project remain undecided as of now. These factors will be determined as the project progresses. Below is a summary of these considerations:</p>

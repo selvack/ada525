@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Assignment 02: 3D Print",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/00_3DPrint/",
+      "date"     : "2023-09-09 10:31:28 +0200"
+    } ,
+  
+    {
+      "title"    : "Assignment 01: CAD Model",
+      "description" : "",
+      "tags"     : "",
+      "url"      : "/00_Cad/",
+      "date"     : "2023-09-08 23:26:04 +0200"
+    } ,
+  
+    {
       "title"    : "Assignment 00: Plan and Sketch",
       "description" : "",
       "tags"     : "",

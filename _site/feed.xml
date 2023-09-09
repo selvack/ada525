@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-08T23:35:00+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 02: 3D Print</title><link href="http://localhost:4000/00_3DPrint/" rel="alternate" type="text/html" title="Assignment 02: 3D Print" /><published>2023-09-09T10:31:28+02:00</published><updated>2023-09-09T10:31:28+02:00</updated><id>http://localhost:4000/00_3DPrint</id><content type="html" xml:base="http://localhost:4000/00_3DPrint/"><![CDATA[<h1 id="1-lezz-go">1 Lezz go</h1>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="assignement" /><summary type="html"><![CDATA[1 Lezz go]]></summary></entry><entry><title type="html">Assignment 01: CAD Model</title><link href="http://localhost:4000/00_Cad/" rel="alternate" type="text/html" title="Assignment 01: CAD Model" /><published>2023-09-08T23:26:04+02:00</published><updated>2023-09-08T23:26:04+02:00</updated><id>http://localhost:4000/00_Cad</id><content type="html" xml:base="http://localhost:4000/00_Cad/"><![CDATA[<h1 id="1-idea--conceptualizing">1 Idea &amp; Conceptualizing</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-09T19:44:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 02: 3D Print</title><link href="http://localhost:4000/00_3DPrint/" rel="alternate" type="text/html" title="Assignment 02: 3D Print" /><published>2023-09-09T10:31:28+02:00</published><updated>2023-09-09T10:31:28+02:00</updated><id>http://localhost:4000/00_3DPrint</id><content type="html" xml:base="http://localhost:4000/00_3DPrint/"><![CDATA[<h1 id="1-lezz-go">1 Lezz go</h1>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="assignement" /><summary type="html"><![CDATA[1 Lezz go]]></summary></entry><entry><title type="html">Assignment 01: CAD Model</title><link href="http://localhost:4000/00_Cad/" rel="alternate" type="text/html" title="Assignment 01: CAD Model" /><published>2023-09-08T23:26:04+02:00</published><updated>2023-09-08T23:26:04+02:00</updated><id>http://localhost:4000/00_Cad</id><content type="html" xml:base="http://localhost:4000/00_Cad/"><![CDATA[<h1 id="1-idea--conceptualizing">1 Idea &amp; Conceptualizing</h1>
 <p>In my previous post, I already outlined the concept for my final project. While choosing the right project for this subject, I had to weigh several factors, including the learning objectives set by the course and how best to present my work to my professor. I began by reviewing the core components of the subject, which encompassed electronics, CAD, 3D printing, laser cutting, and web-app development. This led to extensive brainstorming on potential projects. Although I have a passion for prototyping and product development, I was cautious not to overextend the project’s scope.</p>
 
 <p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" /></p>
@@ -16,17 +16,38 @@
 <p>[ PICTURE OF UPDATED PORJECT]</p>
 
 <h1 id="2-cad---the-visual-aspects">2 CAD - The Visual aspects</h1>
+<p>My project involves creating a shooting game where shots are simulated with a laser gun. I’m not focusing much on the gun itself; instead, I’m directing my attention to the target that needs to be hit. This is where the electronics and movement of the target objects will be incorporated. I made this decision based on the time constraints.</p>
+
+<p>Initially, I thought of constructing a large apartment block with four doors that could open. However, due to what I assume are limitations in 3D printer size, I’m now considering four identical houses placed at some distance from each other. I believe this will enhance the gaming experience as the objects can be positioned at varying distances from one another. Additionally, having identical house objects simplifies the CAD process. One of the houses will serve as the main unit, housing all the electronics. For now, the houses will be interconnected using cable connections.”</p>
 
 <h2 id="21-main-parts">2.1 Main parts</h2>
-<p>Hasdasdasd</p>
+<p>The project currently has two main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of two parts: a door with hinges and the house itself. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid.</p>
 
-<p><strong>House</strong></p>
+<p><strong>2.1.1 House</strong></p>
 
-<p><strong>Targets</strong></p>
+<p>[ PICTURE OF HOUSE ]</p>
+
+<p><strong>2.1.2 Door</strong></p>
+
+<p>[ PICTURE OF DOOR ]</p>
+
+<p><strong>2.1.3 Targets</strong></p>
+
+<p>The targets will likely be 3D models that I’ll source from the internet. After downloading these 3D assets, I’ll proceed directly to 3D printing.</p>
+
+<p>[ PICTURE OF TARGET / SAMPLE ]</p>
+
+<p><strong>2.1.4 Electronic Enclosure</strong></p>
+
+<p>[ PICTURE OF ENCLOSURE - FRAME ]</p>
+
+<p>[ PICTURE OF ENCLUSURE - TOP ]</p>
 
 <h2 id="22-manufacturing-process">2.2 Manufacturing Process</h2>
+<p>I’m planning for all components of this project to be 3D printed. At first, I considered laser-cutting the box for the electronics. However, I now believe that if I can 3D print it and attach it to the house, the overall product will look better. The house’s dimensions must be within the capabilities of the 3D printer, both in terms of width and height.</p>
 
 <h2 id="23-external-components">2.3 External Components</h2>
+<p>For external components, I’m considering using screws, glue to attach figures to the house, and electronics. Additionally, there will be accessories for the servo motor to facilitate movements, such as opening and closing the door. These are the primary elements I envision needing for the project. In my opinion, it’s too early to specify all the equipment required. Everything must be produced first to determine what I’ll need to complete the device.</p>
 
 <h2 id="24-mechanical-movements">2.4 Mechanical Movements</h2>
 

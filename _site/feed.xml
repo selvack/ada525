@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-12T20:39:14+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 02: 3D Print</title><link href="http://localhost:4000/00_3DPrint/" rel="alternate" type="text/html" title="Assignment 02: 3D Print" /><published>2023-09-09T10:31:28+02:00</published><updated>2023-09-09T10:31:28+02:00</updated><id>http://localhost:4000/00_3DPrint</id><content type="html" xml:base="http://localhost:4000/00_3DPrint/"><![CDATA[<h1 id="1-lezz-go">1 Lezz go</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-12T20:43:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 02: 3D Print</title><link href="http://localhost:4000/00_3DPrint/" rel="alternate" type="text/html" title="Assignment 02: 3D Print" /><published>2023-09-09T10:31:28+02:00</published><updated>2023-09-09T10:31:28+02:00</updated><id>http://localhost:4000/00_3DPrint</id><content type="html" xml:base="http://localhost:4000/00_3DPrint/"><![CDATA[<h1 id="1-lezz-go">1 Lezz go</h1>
 <p>Assignment:
 Design and 3D print a design that combines multiple parts. Your design should be as fabricatable as possible, meaning you should fabricate as much of the parts as possible. It’s ok to use external components such as fasteners, bearings, etc.</p>
 
@@ -12,12 +12,20 @@ Document your progress in CAD.
 Document how you set up the slicer and explain the different parameters you set.</p>
 
 <h1 id="1-the-3d-model">1 The 3D Model</h1>
+<p>The project currently has three main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid. 
+<img src="https://i.ibb.co/82VZNvs/2-1.png" alt="Project Outline" title="House" /></p>
 
-<h2 id="11-the-house-bottom">1.1 The House (Bottom)</h2>
+<h2 id="11-house-bottom">1.1 House (Bottom)</h2>
+<p>This is the base of the house. I searched the internet for inspiration, looking for something simple. Initially, I considered a large house or wall that could interlock with others, but I realized it was unnecessary. Additionally, I wanted the ability to adjust the distance between my “targets” to make it challenging for users to aim quickly. The house has an opening for a door, and the roof is separate.
+<img src="https://i.ibb.co/HFTBMMs/2-2.png" alt="Project Outline" title="House" /></p>
 
-<h3 id="12-the-house-top">1.2 The House (Top)</h3>
+<h2 id="12-house-top">1.2 House (Top)</h2>
+<p>This is the top of the house, which functions like a hat. This design makes it easy to lift off, allowing for convenient access to work on the contents, such as attaching the servo, toy figure, and sensor.
+<img src="https://i.ibb.co/b5nFcKr/2-4.png" alt="Project Outline" title="House" /></p>
 
-<h2 id="13-the-door">1.3 The Door</h2>
+<h2 id="13-door">1.3 Door</h2>
+<p>This is the movable part of the project. The door is held in place by a pin that goes through the “hinges” mounted on the house’s wall. The door is designed to open inward.
+<img src="https://i.ibb.co/NFgm4QW/2-3.png" alt="Project Outline" title="House" /></p>
 
 <h1 id="2-from-cad-to-3d-print">2 From CAD to 3D print</h1>
 
@@ -51,7 +59,7 @@ If the picture is not readable then use this link <a href="https://i.ibb.co/28gj
 <img src="https://i.ibb.co/82VZNvs/2-1.png" alt="Project Outline" title="House" /></p>
 
 <h2 id="21-main-parts">2.1 Main parts</h2>
-<p>The project currently has two main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid.</p>
+<p>The project currently has three main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid.</p>
 
 <h3 id="211-house-bottom">2.1.1 House Bottom</h3>
 <p>This is the base of the house. I searched the internet for inspiration, looking for something simple. Initially, I considered a large house or wall that could interlock with others, but I realized it was unnecessary. Additionally, I wanted the ability to adjust the distance between my “targets” to make it challenging for users to aim quickly. The house has an opening for a door, and the roof is separate.

@@ -1,4 +1,4 @@
-I"�<h1 id="1-idea--conceptualizing">1 Idea &amp; Conceptualizing</h1>
+I"�<h1 id="1-idea--conceptualizing">1 Idea &amp; Conceptualizing</h1>
 <p>In my previous post, I already outlined the concept for my final project. While choosing the right project for this subject, I had to weigh several factors, including the learning objectives set by the course and how best to present my work to my professor. I began by reviewing the core components of the subject, which encompassed electronics, CAD, 3D printing, laser cutting, and web-app development. This led to extensive brainstorming on potential projects. Although I have a passion for prototyping and product development, I was cautious not to overextend the project’s scope.</p>
 
 <p><img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" /></p>
@@ -20,24 +20,45 @@
 
 <p>Initially, I thought of constructing a large apartment block with four doors that could open. However, due to what I assume are limitations in 3D printer size, I’m now considering four identical houses placed at some distance from each other. I believe this will enhance the gaming experience as the objects can be positioned at varying distances from one another. Additionally, having identical house objects simplifies the CAD process. One of the houses will serve as the main unit, housing all the electronics. For now, the houses will be interconnected using cable connections.”</p>
 
+<p><img src="https://i.ibb.co/82VZNvs/2-1.png" alt="Project Outline" title="House" /></p>
+
 <h2 id="21-main-parts">2.1 Main parts</h2>
 <p>The project currently has two main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of two parts: a door with hinges and the house itself. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid.</p>
 
-<p><strong>House</strong></p>
+<p><strong>2.1.1 House</strong></p>
 
-<p><strong>Targets</strong></p>
+<p>[ PICTURE OF HOUSE ]</p>
+
+<p><img src="https://i.ibb.co/HFTBMMs/2-2.png" alt="Project Outline" title="House" /></p>
+
+<p><strong>2.1.2 Door</strong></p>
+
+<p>[ PICTURE OF DOOR ]</p>
+
+<p>https://i.ibb.co/NFgm4QW/2-3.png</p>
+
+<p>https://i.ibb.co/b5nFcKr/2-4.png</p>
+
+<p><strong>2.1.3 Targets</strong></p>
 
 <p>The targets will likely be 3D models that I’ll source from the internet. After downloading these 3D assets, I’ll proceed directly to 3D printing.</p>
 
 <p>[ PICTURE OF TARGET / SAMPLE ]</p>
 
-<p><strong>Elektronic Enclosre</strong></p>
+<p><strong>2.1.4 Electronic Enclosure</strong></p>
+
+<p>[ PICTURE OF ENCLOSURE - FRAME ]</p>
+
+<p>[ PICTURE OF ENCLUSURE - TOP ]</p>
 
 <h2 id="22-manufacturing-process">2.2 Manufacturing Process</h2>
+<p>I’m planning for all components of this project to be 3D printed. At first, I considered laser-cutting the box for the electronics. However, I now believe that if I can 3D print it and attach it to the house, the overall product will look better. The house’s dimensions must be within the capabilities of the 3D printer, both in terms of width and height.</p>
 
 <h2 id="23-external-components">2.3 External Components</h2>
+<p>For external components, I’m considering using screws, glue to attach figures to the house, and electronics. Additionally, there will be accessories for the servo motor to facilitate movements, such as opening and closing the door. These are the primary elements I envision needing for the project. In my opinion, it’s too early to specify all the equipment required. Everything must be produced first to determine what I’ll need to complete the device.</p>
 
 <h2 id="24-mechanical-movements">2.4 Mechanical Movements</h2>
+<p>Describe the mechanical movements.. picture of cardboard?!</p>
 
 <h1 id="3-evaluation-and-lesson-learned">3 Evaluation and lesson learned</h1>
 :ET

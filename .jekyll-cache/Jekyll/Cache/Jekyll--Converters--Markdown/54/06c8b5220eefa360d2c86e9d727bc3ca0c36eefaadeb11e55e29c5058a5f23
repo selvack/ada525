@@ -1,19 +1,6 @@
-I"]
-<h1 id="1-lezz-go">1 Lezz go</h1>
-<p>Assignment:
-Design and 3D print a design that combines multiple parts. Your design should be as fabricatable as possible, meaning you should fabricate as much of the parts as possible. It’s ok to use external components such as fasteners, bearings, etc.</p>
-
-<p>You can make a design that is part of your final project, however this is not required.</p>
-
-<p>Document the process of your design, how you set up the slicer and how you print the object. Include pictures of the printed object and of the process. Here are some things you should keep in mind:</p>
-
-<p>Clearly describe the thing you are trying to make.
-Describe how you plan to make it.
-Document your progress in CAD.
-Document how you set up the slicer and explain the different parameters you set.</p>
-
-<h1 id="1-the-3d-model">1 The 3D Model</h1>
-<p>The project currently has two main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid.</p>
+I"	<h1 id="1-the-3d-model">1 The 3D Model</h1>
+<p>The project currently has three main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid. 
+<img src="https://i.ibb.co/82VZNvs/2-1.png" alt="Project Outline" title="House" /></p>
 
 <h2 id="11-house-bottom">1.1 House (Bottom)</h2>
 <p>This is the base of the house. I searched the internet for inspiration, looking for something simple. Initially, I considered a large house or wall that could interlock with others, but I realized it was unnecessary. Additionally, I wanted the ability to adjust the distance between my “targets” to make it challenging for users to aim quickly. The house has an opening for a door, and the roof is separate.
@@ -28,10 +15,16 @@ Document how you set up the slicer and explain the different parameters you set.
 <img src="https://i.ibb.co/NFgm4QW/2-3.png" alt="Project Outline" title="House" /></p>
 
 <h1 id="2-from-cad-to-3d-print">2 From CAD to 3D print</h1>
+<p>To print the parts, first I had to check if the parts did match and didnt collide with eachother, specially the links between the door and house. [IMG]</p>
+
+<p>Since it was my first print I decided to keep a wall thinkness on 5mm, just to check the robustness of the 3D prints. In Fusio3</p>
+
+<p><img src="https://i.ibb.co/M9wrqrp/2-motion.gif" alt="Project Outline" title="House" /></p>
 
 <h2 id="21-3d-print">2.1 3D Print</h2>
 
 <h1 id="22-final-result">2.2 Final result</h1>
 
 <h1 id="3-evaluation-and-lesson-learned">3 Evaluation and lesson learned</h1>
+
 :ET

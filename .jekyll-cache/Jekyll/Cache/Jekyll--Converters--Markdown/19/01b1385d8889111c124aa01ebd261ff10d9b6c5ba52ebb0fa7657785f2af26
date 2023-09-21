@@ -1,18 +1,4 @@
-I"³
-<h1 id="1-lezz-go">1 Lezz go</h1>
-<p>Assignment:
-Design and 3D print a design that combines multiple parts. Your design should be as fabricatable as possible, meaning you should fabricate as much of the parts as possible. Itâ€™s ok to use external components such as fasteners, bearings, etc.</p>
-
-<p>You can make a design that is part of your final project, however this is not required.</p>
-
-<p>Document the process of your design, how you set up the slicer and how you print the object. Include pictures of the printed object and of the process. Here are some things you should keep in mind:</p>
-
-<p>Clearly describe the thing you are trying to make.
-Describe how you plan to make it.
-Document your progress in CAD.
-Document how you set up the slicer and explain the different parameters you set.</p>
-
-<h1 id="1-the-3d-model">1 The 3D Model</h1>
+I"Ê<h1 id="1-the-3d-model">1 The 3D Model</h1>
 <p>The project currently has three main components that need to be both 3D designed and printed. For efficiency, Iâ€™m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid. 
 <img src="https://i.ibb.co/82VZNvs/2-1.png" alt="Project Outline" title="House" /></p>
 
@@ -29,10 +15,23 @@ Document how you set up the slicer and explain the different parameters you set.
 <img src="https://i.ibb.co/NFgm4QW/2-3.png" alt="Project Outline" title="House" /></p>
 
 <h1 id="2-from-cad-to-3d-print">2 From CAD to 3D print</h1>
+<p>Before printing the parts, I needed to ensure that they fit together without any collisions, especially the connections between the door and the house.
+<img src="https://i.ibb.co/M9wrqrp/2-motion.gif" alt="Project Outline" title="House" /></p>
+
+<p>Given that this was my inaugural print, I opted for a wall thickness of 5mm to assess the sturdiness of the 3D prints. Fusion360 software conveniently supports a 3D printing setup, making it relatively straightforward to prepare a print.
+<img src="https://i.ibb.co/rcF3STx/3-2.png" alt="Project Outline" title="Fusion360" /></p>
+
+<p>These are my settings to create STL-files for the 3D-printer.
+<img src="https://i.ibb.co/QYQmGZx/Skjermbilde-2023-09-21-kl-16-51-34.png" alt="Project Outline" title="Fusion360" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/QYQmGZx/Skjermbilde-2023-09-21-kl-16-51-34.png">here</a></p>
 
 <h2 id="21-3d-print">2.1 3D Print</h2>
+<p>To create the 3D print, I used Ultimaker 3 with PLA filaments in Black and White color. 
+<img src="https://content.invisioncic.com/ultimake/monthly_2023_08/IMG_5729.JPEG.9dbee9d99f35694ee1d53e19f78565f7.JPEG" alt="Project Outline" title="Ultimaker3" />
+If the picture is not readable then use this link <a href="https://content.invisioncic.com/ultimake/monthly_2023_08/IMG_5729.JPEG.9dbee9d99f35694ee1d53e19f78565f7.JPEG">here</a></p>
 
 <h1 id="22-final-result">2.2 Final result</h1>
 
 <h1 id="3-evaluation-and-lesson-learned">3 Evaluation and lesson learned</h1>
+
 :ET

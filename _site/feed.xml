@@ -1,17 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-12T20:43:02+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 02: 3D Print</title><link href="http://localhost:4000/00_3DPrint/" rel="alternate" type="text/html" title="Assignment 02: 3D Print" /><published>2023-09-09T10:31:28+02:00</published><updated>2023-09-09T10:31:28+02:00</updated><id>http://localhost:4000/00_3DPrint</id><content type="html" xml:base="http://localhost:4000/00_3DPrint/"><![CDATA[<h1 id="1-lezz-go">1 Lezz go</h1>
-<p>Assignment:
-Design and 3D print a design that combines multiple parts. Your design should be as fabricatable as possible, meaning you should fabricate as much of the parts as possible. It’s ok to use external components such as fasteners, bearings, etc.</p>
-
-<p>You can make a design that is part of your final project, however this is not required.</p>
-
-<p>Document the process of your design, how you set up the slicer and how you print the object. Include pictures of the printed object and of the process. Here are some things you should keep in mind:</p>
-
-<p>Clearly describe the thing you are trying to make.
-Describe how you plan to make it.
-Document your progress in CAD.
-Document how you set up the slicer and explain the different parameters you set.</p>
-
-<h1 id="1-the-3d-model">1 The 3D Model</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-09-21T17:25:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 02: 3D Print</title><link href="http://localhost:4000/00_3DPrint/" rel="alternate" type="text/html" title="Assignment 02: 3D Print" /><published>2023-09-09T10:31:28+02:00</published><updated>2023-09-09T10:31:28+02:00</updated><id>http://localhost:4000/00_3DPrint</id><content type="html" xml:base="http://localhost:4000/00_3DPrint/"><![CDATA[<h1 id="1-the-3d-model">1 The 3D Model</h1>
 <p>The project currently has three main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid. 
 <img src="https://i.ibb.co/82VZNvs/2-1.png" alt="Project Outline" title="House" /></p>
 
@@ -28,12 +15,54 @@ Document how you set up the slicer and explain the different parameters you set.
 <img src="https://i.ibb.co/NFgm4QW/2-3.png" alt="Project Outline" title="House" /></p>
 
 <h1 id="2-from-cad-to-3d-print">2 From CAD to 3D print</h1>
+<p>Before printing the parts, I needed to ensure that they fit together without any collisions, especially the connections between the door and the house.
+<img src="https://i.ibb.co/M9wrqrp/2-motion.gif" alt="Project Outline" title="House" /></p>
+
+<p>Given that this was my inaugural print, I opted for a wall thickness of 5mm to assess the sturdiness of the 3D prints. Fusion360 software conveniently supports a 3D printing setup, making it relatively straightforward to prepare a print.
+<img src="https://i.ibb.co/rcF3STx/3-2.png" alt="Project Outline" title="Fusion360" /></p>
+
+<p>These are my settings to create STL-files for the 3D-printer.
+<img src="https://i.ibb.co/QYQmGZx/Skjermbilde-2023-09-21-kl-16-51-34.png" alt="Project Outline" title="Fusion360" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/QYQmGZx/Skjermbilde-2023-09-21-kl-16-51-34.png">here</a></p>
 
 <h2 id="21-3d-print">2.1 3D Print</h2>
+<p>To create the 3D print, I used Ultimaker 3 with PLA filaments in Black and White color. 
+<img src="https://content.invisioncic.com/ultimake/monthly_2023_08/IMG_5729.JPEG.9dbee9d99f35694ee1d53e19f78565f7.JPEG" alt="Project Outline" title="Ultimaker3" />
+If the picture is not readable then use this link <a href="https://content.invisioncic.com/ultimake/monthly_2023_08/IMG_5729.JPEG.9dbee9d99f35694ee1d53e19f78565f7.JPEG">here</a></p>
+
+<p>I used the Ulitmaker Cura as my slicer for this project with these settings
+<img src="https://i.ibb.co/wyMBmb3/3-0.png" alt="Project Outline" title="Ultimaker3" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/wyMBmb3/3-0.png">here</a></p>
+
+<p>“Before beginning the printing process, I applied a glue pen to coat the printing plate. This step helps reduce the likelihood of the print adhering too firmly to the glass.</p>
+
+<p>Below are some pictures of the progress.</p>
+
+<p><img src="https://i.ibb.co/nj2Y960/379582427-671341501610531-2372527959637092926-n.jpg" alt="Project Outline" title="Progress" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/nj2Y960/379582427-671341501610531-2372527959637092926-n.jpg">here</a></p>
+
+<p><img src="https://i.ibb.co/5KNdLFr/381949127-269148839329034-2477637698480515237-n.jpg" alt="Project Outline" title="Progress" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/5KNdLFr/381949127-269148839329034-2477637698480515237-n.jpg">here</a></p>
+
+<p><img src="https://i.ibb.co/VMptxPd/379506468-226910486708972-2559037656850310393-n.jpg" alt="Project Outline" title="Progress" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/VMptxPd/379506468-226910486708972-2559037656850310393-n.jpg">here</a></p>
 
 <h1 id="22-final-result">2.2 Final result</h1>
+<p>Here is my final result</p>
 
-<h1 id="3-evaluation-and-lesson-learned">3 Evaluation and lesson learned</h1>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="assignement" /><summary type="html"><![CDATA[1 Lezz go Assignment: Design and 3D print a design that combines multiple parts. Your design should be as fabricatable as possible, meaning you should fabricate as much of the parts as possible. It’s ok to use external components such as fasteners, bearings, etc.]]></summary></entry><entry><title type="html">Assignment 01: CAD Model</title><link href="http://localhost:4000/00_Cad/" rel="alternate" type="text/html" title="Assignment 01: CAD Model" /><published>2023-09-08T23:26:04+02:00</published><updated>2023-09-08T23:26:04+02:00</updated><id>http://localhost:4000/00_Cad</id><content type="html" xml:base="http://localhost:4000/00_Cad/"><![CDATA[<h1 id="1-idea--conceptualizing">1 Idea &amp; Conceptualizing</h1>
+<p><img src="https://i.ibb.co/dKW3shQ/379588405-313593144690098-1661230860431114478-n.jpg" alt="Project Outline" title="Final Result" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/dKW3shQ/379588405-313593144690098-1661230860431114478-n.jpg">here</a></p>
+
+<p><img src="https://cdn.discordapp.com/attachments/1145664828199948359/1153658100042190890/Selva_demo.webp" alt="Project Outline" title="FInal Result" />
+If the picture is not readable then use this link <a href="https://cdn.discordapp.com/attachments/1145664828199948359/1153658100042190890/Selva_demo.webp">here</a></p>
+
+<h1 id="3-evaluation-and-lesson-learned">3 Evaluation and lesson learned</h1>
+
+<p>I found this exercise both enjoyable and enlightening, presenting numerous learning opportunities. The 3D printing aspect was particularly novel for me, and it quickly piqued my interest. During the printing process, I discovered that removing supports can be challenging. My door, being quite thin, sustained some damage when I attempted to remove its supports.</p>
+
+<p>I also recognized the need to reduce the thickness of my walls to save on materials and decrease printing time. After assembling the initial print and testing all the components, I realized the necessity of adding a floor to the house to secure the electronics. I also made some adjustments to the roof’s measurements to conserve materials further.</p>
+
+<p>Another observation was the difficulty in removing a 3D print when its bottom layer is solidly adhered to the printing plate, especially since the 3D model automatically settled in the slicer. For future prints, I plan to introduce a support layer at the bottom to facilitate easier removal.</p>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="assignement" /><summary type="html"><![CDATA[1 The 3D Model The project currently has three main components that need to be both 3D designed and printed. For efficiency, I’m considering making all the houses identical. Each house will consist of there parts: a door with hinges and the house which i divided into bottom and top. The electronics will be housed in a shielded enclosure, which will also have two parts: a frame and a lid.]]></summary></entry><entry><title type="html">Assignment 01: CAD Model</title><link href="http://localhost:4000/00_Cad/" rel="alternate" type="text/html" title="Assignment 01: CAD Model" /><published>2023-09-08T23:26:04+02:00</published><updated>2023-09-08T23:26:04+02:00</updated><id>http://localhost:4000/00_Cad</id><content type="html" xml:base="http://localhost:4000/00_Cad/"><![CDATA[<h1 id="1-idea--conceptualizing">1 Idea &amp; Conceptualizing</h1>
 <p>In my previous post, I already outlined the concept for my final project. While choosing the right project for this subject, I had to weigh several factors, including the learning objectives set by the course and how best to present my work to my professor. I began by reviewing the core components of the subject, which encompassed electronics, CAD, 3D printing, laser cutting, and web-app development. This led to extensive brainstorming on potential projects. Although I have a passion for prototyping and product development, I was cautious not to overextend the project’s scope.
 <img src="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png" alt="Project Outline" title="Laser Gun Game" />
 If the picture is not readable then use this link <a href="https://i.ibb.co/2WJz1GN/Skjermbilde-2023-08-28-111433.png">here</a></p>

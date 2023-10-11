@@ -1,0 +1,71 @@
+I"�%<h1 id="1-the-project">1 The Project</h1>
+<p>As previously outlined in earlier project updates, I’m in the process of developing a laser gun game. This project encompasses 3D printed components, as well as electronics featuring the Arduino Uno R4 equipped with an ESP32 chip for wireless functionality. In this update, we’ll delve into the game’s design, development, and installation processes to achieve a functional prototype.</p>
+
+<p><img src="https://i.ibb.co/28gjD4F/Updated-mode.png" alt="Project Outline" title="Updated Project Outline" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/28gjD4F/Updated-mode.png">here</a></p>
+
+<h1 id="2-components">2 Components</h1>
+<p>This project contains 3 main parts:</p>
+<ul>
+  <li>House</li>
+  <li>Electronics</li>
+  <li>Gun</li>
+</ul>
+
+<p>Originally, I intended to print three houses. However, due to challenges with the 3D printer and filament, I’ve opted to use just one house as the target for the game. Given that this course necessitates the creation of a prototype, a single house will suffice for that objective.</p>
+
+<h2 id="21-house">2.1 House</h2>
+<p>The house is printed in 3 parts (Main, door and roof). A final model is shown below (without the roof)</p>
+
+<p><img src="https://i.ibb.co/dKW3shQ/379588405-313593144690098-1661230860431114478-n.jpg" alt="Project Outline" title="Final Result" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/dKW3shQ/379588405-313593144690098-1661230860431114478-n.jpg">here</a></p>
+
+<h2 id="22-electronics">2.2 Electronics</h2>
+<p>For this project, I aimed to keep things straightforward, leading to my choice of the Arduino module. Initially, I had planned to use the Arduino Uno R3, complemented by an additional shield for ESP32 support. Fortunately, Arduino recently launched their new R4 version, which comes with an integrated ESP32 chip, saving me significant time. Currently, I’m awaiting the delivery of this module. The image displayed on this page showcases the earlier R3 version. For development, I’ll be utilizing VSCode in conjunction with PlatformIO. The latter is a sophisticated development environment tailored for microcontrollers, offering a broader range of functionalities compared to the Arduino IDE. It’s compatible with multiple operating systems and seamlessly integrates with various code editors, notably Microsoft’s Visual Studio Code. Unlike the Arduino IDE, PlatformIO boasts features like auto-complete, debugging, and eliminates the need for manual port selection. This tool streamlines the setup and coding process for diverse microcontrollers, including the Arduino Uno and ESP32.</p>
+
+<p><img src="https://i.ibb.co/g6KYVm6/387530896-582262480636953-8679755345396056296-n.jpg" alt="Project Outline" title="Final Result" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/g6KYVm6/387530896-582262480636953-8679755345396056296-n.jpg">here</a></p>
+
+<p><img src="https://i.ibb.co/KwwdKnF/379660756-1700731580425402-4610422125662163263-n.jpg" alt="Project Outline" title="Final Result" />
+If the picture is not readable then use this link <a href="https://i.ibb.co/KwwdKnF/379660756-1700731580425402-4610422125662163263-n.jpg">here</a></p>
+
+<h2 id="23-gun">2.3 Gun</h2>
+<p>For the Gun im going to find a toygun and modify it so that it shoots laser towards the target. If this should be challanging for the time being, im open to just use a laser pointer to demonstrate the purpose and keep it as an MVP solution (Minimum-Viable-Product).</p>
+
+<p>[ IMG GUN ]</p>
+
+<h1 id="3-laser-game">3 Laser Game</h1>
+<p>As previously mentioned in my project updates, I’m developing a laser gun game that combines 3D printed components with advanced electronics, specifically the Arduino Uno R4 equipped with an ESP32 chip for wireless capabilities. The core mechanism of the game involves the laser gun emitting a high-powered light beam or laser, which is directed towards a light sensor strategically placed on a target inside the house. When the target is successfully hit by the laser, the player is awarded points.</p>
+
+<p>Given that I ended up with a single house/target due to unforeseen challenges, I’ve had to think creatively about how to showcase various game modes. One approach I’m considering is to randomize both the intervals at which the door opens and the duration it remains open, revealing the target. This variability will introduce an element of unpredictability and challenge for the player.</p>
+
+<p>To enhance the user experience, I’m also developing a web-app that will allow players to monitor their scores and adjust game settings. This integration not only offers real-time feedback but also provides a platform for potential future enhancements and game modes.</p>
+
+<h1 id="4-fabrication-method-evaluation">4 Fabrication Method Evaluation</h1>
+<p>I utilized 3D printing techniques to create a tangible model of the house. In my opinion, 3D printing is currently the most efficient and rapid method for producing parts. For enclosing the electronics, I believe 3D printing would also be the optimal approach. However, since I bypassed that exercise, I’m now inclined to use a laser-cut enclosure to showcase proficiency in that technique. In terms of challenges, I encountered some with my printer. Interestingly, the printer itself functioned well; the primary issue arose with the filament.</p>
+
+<p><img src="https://cdn.discordapp.com/attachments/1145664828199948359/1156140916160090155/IMG_5502.jpg?ex=65377c22&amp;is=65250722&amp;hm=767c4525881ae4e4bc1ec2ef9007a6a4d50b3c82b18e324db8449e33622d460c&amp;" alt="Project Outline" title="Final Result" />
+If the picture is not readable then use this link <a href="https://cdn.discordapp.com/attachments/1145664828199948359/1156140916160090155/IMG_5502.jpg?ex=65377c22&amp;is=65250722&amp;hm=767c4525881ae4e4bc1ec2ef9007a6a4d50b3c82b18e324db8449e33622d460c&amp;">here</a></p>
+
+<p>I also attempted to clean the nozzle and went through the process of unloading and reloading the filament, but to no avail. This situation proved to be a valuable learning experience for me. I had to extensively research solutions to the problem. I’m a firm believer in hands-on learning, and I think challenges like these, where things don’t go as planned, offer the best opportunities for growth and understanding.</p>
+
+<p>Regarding the electronics, I plan to design a custom shield using a breadboard, which should seamlessly fit into the enclosure. Additionally, I’ve procured other electronic components, such as a light sensor and servo motor, specifically for this project.</p>
+
+<h2 id="5-missing-components">5 Missing Components</h2>
+<p>At present, I don’t find myself lacking any components or facing ambiguity regarding the game and its associated elements. While I haven’t received all the components for the project, they are en route, and I anticipate their arrival shortly. This proactive approach ensures that I’m well-prepared to move forward with the project as soon as all the necessary parts are in hand.</p>
+
+<h1 id="6-todo">6 Todo</h1>
+<p>Remaining Tasks for Project Completion</p>
+<ul>
+  <li><strong>Installing Step Motor Inside the House:</strong> I plan to use hot glue for this prototype. However, for the final product, I would redesign the house to incorporate a holder for the servo motor.</li>
+  <li><strong>Final Electronics Wiring Diagram:</strong> While I currently have a clear understanding of the wiring, a comprehensive diagram still needs to be drafted.</li>
+  <li><strong>Light Sensor Placement:</strong> The light sensor will be glued to the target inside the house.</li>
+  <li><strong>Arduino R4 Shield Creation:</strong> A custom shield with the necessary electronics will be designed for the Arduino R4.</li>
+  <li><strong>Arduino Code Development:</strong> With my proficiency in C programming, I have a clear roadmap for the coding process.</li>
+  <li><strong>Web-App Development:</strong> A web-app will be created to facilitate communication with the ESP32.</li>
+  <li><strong>Electronics Enclosure Design:</strong> An enclosure will be designed to house all the electronic components.</li>
+</ul>
+
+<h1 id="7-evaluation-and-lesson-learned">7 Evaluation and lesson learned</h1>
+<p>Throughout the development of the laser gun game, several key lessons emerged that have significantly shaped my approach to problem-solving and project management. The challenges faced with 3D printing, particularly with the filament, underscored the importance of adaptability and persistence. While 3D printing is a powerful tool for rapid prototyping, it’s not without its intricacies, and understanding its nuances is crucial. The filament issue, coupled with the need to extensively research solutions, reinforced the idea that hands-on learning is often the most impactful. Encountering obstacles and actively seeking solutions not only deepens one’s understanding but also hones troubleshooting skills. Additionally, the decision to pivot from a 3D printed enclosure to a laser-cut one highlighted the value of versatility in design and the importance of mastering multiple techniques. In the realm of electronics, designing a custom shield and integrating various components taught me the significance of meticulous planning and the need to anticipate potential integration challenges. In essence, this project has been a testament to the fact that while challenges are inevitable in any endeavor, they often pave the way for the most profound learning experiences.</p>
+:ET

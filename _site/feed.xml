@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-10-12T01:15:34+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 05: Prototype 1</title><link href="http://localhost:4000/00_Prototype1/" rel="alternate" type="text/html" title="Assignment 05: Prototype 1" /><published>2023-10-10T17:05:11+02:00</published><updated>2023-10-10T17:05:11+02:00</updated><id>http://localhost:4000/00_Prototype1</id><content type="html" xml:base="http://localhost:4000/00_Prototype1/"><![CDATA[<h1 id="1-the-project">1 The Project</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-10-24T21:25:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ADA525  - Selva Kumar</title><subtitle>Webpage to contain necesary information and sourcefiles for the subject ADA525 @ HVL.</subtitle><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><entry><title type="html">Assignment 06: Input/Output</title><link href="http://localhost:4000/00_InputOutput/" rel="alternate" type="text/html" title="Assignment 06: Input/Output" /><published>2023-10-24T22:32:51+02:00</published><updated>2023-10-24T22:32:51+02:00</updated><id>http://localhost:4000/00_InputOutput</id><content type="html" xml:base="http://localhost:4000/00_InputOutput/"><![CDATA[<h1 id="1-introduction">1 Introduction</h1>
+<p>Intro hva skal gjøres?</p>
+
+<h1 id="2-input">2 Input</h1>
+<p>sadasd
+komponenter
+input?
+code</p>
+
+<h1 id="3-output">3 Output</h1>
+<p>output
+code
+sad</p>
+
+<h1 id="7-evaluation-and-lesson-learned">7 Evaluation and lesson learned</h1>
+<p>asd</p>]]></content><author><name>Selva Kumar</name><email>selva.kumar@live.no</email></author><category term="assignement" /><summary type="html"><![CDATA[1 Introduction Intro hva skal gjøres?]]></summary></entry><entry><title type="html">Assignment 05: Prototype 1</title><link href="http://localhost:4000/00_Prototype1/" rel="alternate" type="text/html" title="Assignment 05: Prototype 1" /><published>2023-10-10T17:05:11+02:00</published><updated>2023-10-10T17:05:11+02:00</updated><id>http://localhost:4000/00_Prototype1</id><content type="html" xml:base="http://localhost:4000/00_Prototype1/"><![CDATA[<h1 id="1-the-project">1 The Project</h1>
 <p>As previously outlined in earlier project updates, I’m in the process of developing a laser gun game. This project encompasses 3D printed components, as well as electronics featuring the Arduino Uno R4 equipped with an ESP32 chip for wireless functionality. In this update, we’ll delve into the game’s design, development, and installation processes to achieve a functional prototype.</p>
 
 <p><img src="https://i.ibb.co/28gjD4F/Updated-mode.png" alt="Project Outline" title="Updated Project Outline" />
